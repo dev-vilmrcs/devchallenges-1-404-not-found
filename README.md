@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://gifted-cori-69c4c6.netlify.app/">
+    <a href="https://objective-mcnulty-c515ca.netlify.app/">
       Solution
     </a>
     <span> | </span>
