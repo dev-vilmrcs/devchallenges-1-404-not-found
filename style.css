@@ -42,6 +42,9 @@ button:hover {
 /* CONTAINER */
 
 .container {
+    max-width: 1440px;
+    margin: auto;
+    
     padding: 1rem;
     height: 100vh;
     display: flex;
@@ -77,7 +80,7 @@ header p {
 }
 
 @media (min-width: 768px) {
-    header p {
+    header > p {
         padding-left: 2rem;
     }
     .content {
@@ -97,15 +100,12 @@ header p {
         margin: 2rem 0;
     }
     .content-details p {
-        padding-left: 2rem;
-        /* font-size: 1.5rem; */
         margin: 2rem 0;
     }
 }
 
 @media (min-width: 1024px) {
     .container {
-        max-width: 1500px;
         margin: auto;
     }
     .content-img-container img {
